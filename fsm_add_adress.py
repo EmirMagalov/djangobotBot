@@ -43,6 +43,7 @@ async def fsm_phone(message:types.Message, state:FSMContext):
 @fsm_add_adress.message(AddData.adress,F.text)
 async def fsm_adress(message:types.Message,bot:Bot, state:FSMContext):
     await state.update_data(adress=message.text)
+    await state.clear()
     await fsm_finish(message,bot,state)
 
 async def fsm_finish(message:types.Message,bot:Bot,state:FSMContext):
