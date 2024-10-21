@@ -1,0 +1,47 @@
+2024-10-21 12:58:55,106 - aiogram.dispatcher - INFO - Start polling
+2024-10-21 12:58:55,406 - aiogram.dispatcher - INFO - Run polling for bot @tz_bot_django_bot id=7821265521 - 'tz_bot_django'
+2024-10-21 12:59:20,720 - private - INFO - Пользователь 1059422557 отправил команду /start
+2024-10-21 12:59:21,798 - aiogram.event - INFO - Update id=462742304 is handled. Duration 1077 ms by bot id=7821265521
+2024-10-21 12:59:39,171 - aiogram.event - INFO - Update id=462742305 is handled. Duration 1405 ms by bot id=7821265521
+2024-10-21 12:59:42,820 - aiogram.event - INFO - Update id=462742306 is handled. Duration 1125 ms by bot id=7821265521
+2024-10-21 12:59:46,185 - aiogram.event - INFO - Update id=462742307 is handled. Duration 718 ms by bot id=7821265521
+2024-10-21 12:59:49,198 - aiogram.event - INFO - Update id=462742308 is handled. Duration 671 ms by bot id=7821265521
+2024-10-21 12:59:57,523 - aiogram.event - INFO - Update id=462742309 is handled. Duration 1203 ms by bot id=7821265521
+2024-10-21 12:59:59,947 - aiogram.event - INFO - Update id=462742310 is handled. Duration 1233 ms by bot id=7821265521
+2024-10-21 13:00:01,483 - aiogram.event - INFO - Update id=462742311 is handled. Duration 718 ms by bot id=7821265521
+2024-10-21 13:00:04,312 - private - INFO - Пользователь 1059422557 добавил товар Куртка зимняя в корзину
+2024-10-21 13:00:05,015 - aiogram.event - INFO - Update id=462742312 is handled. Duration 1203 ms by bot id=7821265521
+2024-10-21 13:02:21,188 - aiogram.dispatcher - INFO - Polling stopped for bot @tz_bot_django_bot id=7821265521 - 'tz_bot_django'
+2024-10-21 13:02:21,188 - aiogram.dispatcher - INFO - Polling stopped
+2024-10-21 09:02:43,821 - aiogram.dispatcher - INFO - Start polling
+2024-10-21 09:02:44,138 - aiogram.dispatcher - INFO - Run polling for bot @tz_bot_django_bot id=7821265521 - 'tz_bot_django'
+2024-10-21 09:02:59,614 - private - INFO - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ 1059422557 РѕС‚РїСЂР°РІРёР» РєРѕРјР°РЅРґСѓ /start
+2024-10-21 09:03:00,923 - aiogram.event - INFO - Update id=462742313 is handled. Duration 1309 ms by bot id=7821265521
+2024-10-21 09:03:11,231 - private - INFO - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ 1059422557 РѕС‚РїСЂР°РІРёР» РєРѕРјР°РЅРґСѓ /start
+2024-10-21 09:03:12,179 - aiogram.event - INFO - Update id=462742314 is handled. Duration 950 ms by bot id=7821265521
+2024-10-21 09:03:15,399 - aiogram.event - INFO - Update id=462742315 is handled. Duration 1296 ms by bot id=7821265521
+2024-10-21 09:03:18,411 - aiogram.event - INFO - Update id=462742316 is handled. Duration 1221 ms by bot id=7821265521
+2024-10-21 09:03:20,232 - aiogram.event - INFO - Update id=462742317 is handled. Duration 782 ms by bot id=7821265521
+2024-10-21 09:03:22,251 - aiogram.event - INFO - Update id=462742318 is handled. Duration 645 ms by bot id=7821265521
+2024-10-21 09:03:24,028 - aiogram.event - INFO - Update id=462742319 is handled. Duration 637 ms by bot id=7821265521
+2024-10-21 09:03:25,637 - aiogram.event - INFO - Update id=462742320 is handled. Duration 696 ms by bot id=7821265521
+2024-10-21 09:03:29,054 - aiogram.event - INFO - Update id=462742321 is handled. Duration 1752 ms by bot id=7821265521
+2024-10-21 09:03:31,620 - aiogram.event - INFO - Update id=462742322 is handled. Duration 1727 ms by bot id=7821265521
+2024-10-21 09:03:35,447 - aiogram.event - INFO - Update id=462742323 is handled. Duration 1436 ms by bot id=7821265521
+2024-10-21 09:03:37,531 - aiogram.event - INFO - Update id=462742324 is handled. Duration 1188 ms by bot id=7821265521
+2024-10-21 09:03:39,974 - aiogram.event - INFO - Update id=462742325 is handled. Duration 1224 ms by bot id=7821265521
+2024-10-21 09:03:41,455 - aiogram.event - INFO - Update id=462742326 is handled. Duration 673 ms by bot id=7821265521
+2024-10-21 09:03:43,735 - aiogram.event - INFO - Update id=462742327 is handled. Duration 1221 ms by bot id=7821265521
+2024-10-21 09:03:45,722 - aiogram.event - INFO - Update id=462742328 is handled. Duration 1218 ms by bot id=7821265521
+2024-10-21 09:03:48,554 - aiogram.event - INFO - Update id=462742329 is handled. Duration 1776 ms by bot id=7821265521
+2024-10-21 09:03:50,609 - aiogram.event - INFO - Update id=462742330 is handled. Duration 646 ms by bot id=7821265521
+2024-10-21 09:03:53,251 - aiogram.event - INFO - Update id=462742331 is handled. Duration 871 ms by bot id=7821265521
+2024-10-21 09:03:58,210 - aiogram.event - INFO - Update id=462742332 is handled. Duration 159 ms by bot id=7821265521
+2024-10-21 09:04:07,278 - aiogram.event - INFO - Update id=462742333 is handled. Duration 120 ms by bot id=7821265521
+2024-10-21 09:04:12,424 - aiogram.event - INFO - Update id=462742334 is handled. Duration 834 ms by bot id=7821265521
+2024-10-21 09:04:31,749 - aiogram.event - INFO - Update id=462742335 is handled. Duration 298 ms by bot id=7821265521
+2024-10-21 09:04:34,283 - private - INFO - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ 1059422557 РѕС‚РїСЂР°РІРёР» РєРѕРјР°РЅРґСѓ /start
+2024-10-21 09:04:36,231 - aiogram.event - INFO - Update id=462742336 is handled. Duration 2377 ms by bot id=7821265521
+2024-10-21 09:07:46,789 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2024-10-21 09:07:46,790 - aiogram.dispatcher - INFO - Polling stopped for bot @tz_bot_django_bot id=7821265521 - 'tz_bot_django'
+2024-10-21 09:07:46,790 - aiogram.dispatcher - INFO - Polling stopped
